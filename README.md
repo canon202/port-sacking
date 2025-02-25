@@ -20,10 +20,10 @@ if you want to download this tool with termux you must be follow the rules
 
 .cd port-sacking
 
-.chmod +x # 'port scanner.py'
+.chmod +x 'port scanner.py'
 
 .ls
 
-# now run with ### python3 
+# now run with python3 
 
 . python3 'port scanner.py'
