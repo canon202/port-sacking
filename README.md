@@ -10,19 +10,19 @@ if you want to download this tool with termux you must be follow the rules
 # installation for termux 
 
 
-.apt update
+apt update
 
-.apt upgrade 
+apt upgrade 
 
-.pkg install git 
+pkg install git 
 
-.git clone https://github.com/canon202/port-sacking.git
+git clone https://github.com/canon202/port-sacking.git
 
-.cd port-sacking
+cd port-sacking
 
-.chmod +x 'port scanner.py'
+chmod +x 'port scanner.py'
 
-.ls
+ls
 
 # now run with python3 
 
